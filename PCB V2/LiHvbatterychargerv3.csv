@@ -9,5 +9,5 @@
 "R6,R8","0.2","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","~","2","","",""
 "R7","10k","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","~","1","","",""
 "SW1","SW_SPST","Button_Switch_THT:SW_Slide_SPDT_Straight_CK_OS102011MS2Q","~","1","","",""
-"U1","TP4056X-42-ESOP8","Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.62x3.51mm_ThermalVias","https://www.lcsc.com/datasheet/lcsc_datasheet_2410121619_TOPPOWER-Nanjing-Extension-Microelectronics-TP4056-42-ESOP8_C16581.pdf","1","","",""
+"U1","TP4056X-435-ESOP8","Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.62x3.51mm_ThermalVias","https://www.lcsc.com/datasheet/lcsc_datasheet_2410121619_TOPPOWER-Nanjing-Extension-Microelectronics-TP4056-42-ESOP8_C16581.pdf","1","","",""
 "U2","XIAO-RP2040-SMD","SeeedStudioLibrary:XIAO-RP2040-SMD","","1","","",""
