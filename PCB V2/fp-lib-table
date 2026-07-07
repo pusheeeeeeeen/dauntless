@@ -1,5 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "XIAO RP2040")(type "KiCad")(uri "/Users/benquac/Downloads/New_XIAO_Series_Footprints 2")(options "")(descr ""))
-  (lib (name "New_XIAO_Series_Footprints(1)")(type "KiCad")(uri "/Users/benquac/Downloads/New_XIAO_Series_Footprints(1)")(options "")(descr ""))
-)
